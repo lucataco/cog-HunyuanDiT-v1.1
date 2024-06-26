@@ -137,3 +137,6 @@ trt/activate.sh
 trt/deactivate.sh
 *.onnx
 ckpts/
+
+.cog
+model_cache
